@@ -57,8 +57,20 @@
 - わたし　は　レストラン　で　たべた — J’ai mangé au restaurant.
 
 ---
+## 7. Particule と (to)
 
-## 7. Autres particules utiles
+### 1. Énumération exhaustive ("et")
+- 犬と猫が好きです — J’aime les chiens **et** les chats.  
+
+### 2. Compagnie ("avec")
+- 友達と行きます — Je vais **avec** un ami.  
+- 先生と話します — Je parle **avec** le professeur.  
+
+👉 À distinguer de **や**, qui énumère sans être exhaustif ("et… entre autres").
+
+---
+
+## 8. Autres particules utiles
 - **か (ka)** : marque **la question** (équivalent du point d'interrogation).  
 - **と (to)** : liste exhaustive ("et").  
 - **や (ya)** : liste non exhaustive ("et ...").  
@@ -67,7 +79,7 @@
 
 ---
 
-## 8. Récapitulatif en tableau
+## 9. Récapitulatif en tableau
 
 | Particule | Fonction principale                            | Exemple                                 |
 |-----------|------------------------------------------------|------------------------------------------|
@@ -80,7 +92,7 @@
 | へ        | Direction générale ("vers")                    | 日本へ行く — Aller au Japon              |
 | で        | Lieu d’action / moyen                          | 車で行く — Y aller en voiture            |
 | か        | Question                                       | 行きますか？ — Est-ce que tu y vas ?      |
-| と        | Énumération exhaustive                         | 犬と猫 — Chien et chat                   |
+| と | Énumération exhaustive / compagnie ("et", "avec") | 犬と猫 — Chien et chat / 友達と行く — Aller avec un ami |
 | や        | Énumération non exhaustive                     | 犬や猫 — Chapitres, etc.                 |
 | ね        | Accord / confirmation ("n’est-ce pas ?")       | いいですね — C’est bien, non ?           |
 | よ        | Insistance / information nouvelle               | そうですよ — Oui, tu sais                |
