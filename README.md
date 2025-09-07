@@ -36,8 +36,9 @@ Vous pouvez :
 
 ## Licence
 
-À compléter (merci d’ajouter un fichier LICENSE si besoin).
+Ce projet est mis à disposition sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
-*Projet créé par [ellandar31](https://github.com/ellandar31)*.
+*Projet créé par [ellandar31](https://github.com/ellandar31)*
