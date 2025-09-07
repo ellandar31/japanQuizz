@@ -41,7 +41,9 @@
 - **Devant un nom** : 静かな場所 (しずかな ばしょ) – un endroit calme  
 - **En fin de phrase** : この場所は静かです (このばしょは しずかです) – Cet endroit est calme.  
 - **Style neutre** : 元気だ (げんきだ) – en bonne santé (familier).  
-- **Style poli** : 元気です (げんきです) – en bonne santé (poli).  
+- **Style poli** : 元気です (げんきです) – en bonne santé (poli).
+- **Liaison (〜で)** しずかで、きれいな ばしょです – C’est un endroit calme et joli/propre. 
+
 
 ---
 
