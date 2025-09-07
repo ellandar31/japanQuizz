@@ -155,4 +155,36 @@
 
 ---
 
-## 9. Donner et
+## 9. Donner et recevoir
+
+**Consigne :** Complète avec あげる, くれる ou もらう.
+
+1. 友達がプレゼントを___。 (ともだち が プレゼント を ___)  
+2. 私は先生に本を___。 (わたし は せんせい に ほん を ___)  
+3. 私は妹にお金を___。 (わたし は いもうと に おかね を ___)  
+
+<details><summary>Correction</summary>
+
+1. 友達がプレゼントを**くれた**。  
+2. 私は先生に本を**もらった**。  
+3. 私は妹にお金を**あげた**。  
+
+</details>
+
+---
+
+## 10. Noms et démonstratifs
+
+**Consigne :** Complète avec le bon démonstratif (これ, それ, あれ, どれ).
+
+1. ___は鉛筆です。 (___ は えんぴつ です)  
+2. ___は何ですか。 (___ は なん です か)  
+3. あの人は___ですか。 (あの ひと は ___ です か)  
+
+<details><summary>Correction</summary>
+
+1. これは鉛筆です。  
+2. それは何ですか。  
+3. あの人は誰ですか。 (あの ひと は だれ です か)  
+
+</details>
