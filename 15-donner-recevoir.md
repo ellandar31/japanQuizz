@@ -1,4 +1,4 @@
-# 📘 Fiche mémo – Donner, recevoir, enseigner et apprendre
+# 📘 Fiche mémo – Donner, recevoir, enseigner, apprendre, prêter et emprunter
 
 ## 1. Donner : あげます (agemasu) / くれます (kuremasu)
 
@@ -37,16 +37,32 @@
 
 ---
 
-## 5. Récapitulatif comparatif
-
-| Verbe       | Idée | Exemple |
-|-------------|------|---------|
-| あげます     | Donner (depuis moi/tiers) | 私は友達に本をあげます — Je donne un livre à un ami |
-| くれます     | Donner (vers moi) | 友達が私に本をくれます — Un ami me donne un livre |
-| もらいます   | Recevoir | 私は友達に本をもらいます — Je reçois un livre d’un ami |
-| 教える       | Enseigner (donner du savoir) | 先生は学生に日本語を教えます — Le prof enseigne le japonais |
-| 習う         | Apprendre (recevoir du savoir) | 学生は先生に日本語を習います — L’élève apprend du professeur |
+## 5. Prêter : 貸す (kasu)
+- Prêter = **donner temporairement un objet** (même logique que あげます).  
+- Structure : [Prêteur は] [Destinataire に] [Objet を] 貸します  
+- Ex. : 私は友達に本を貸しました  
+→ J’ai prêté un livre à un ami.
 
 ---
 
-✅ Astuce : pense à **あげる/教える** comme “donner (aller vers)” et à **くれる/もらう/習う** comme “recevoir (venir vers moi)”.
+## 6. Emprunter : 借りる (kariru)
+- Emprunter = **recevoir temporairement un objet** (même logique que もらいます).  
+- Structure : [Emprunteur は] [Prêteur に] [Objet を] 借ります  
+- Ex. : 私は友達に本を借りました  
+→ J’ai emprunté un livre à un ami.
+
+---
+
+## 7. Récapitulatif comparatif
+
+| Sens        | Donner / vers l’autre          | Recevoir / vers soi         |
+|-------------|--------------------------------|------------------------------|
+| Objet       | あげます (donner)              | もらいます (recevoir)        |
+| Savoir      | 教える (enseigner)             | 習う (apprendre)             |
+| Objet prêté | 貸す (prêter)                  | 借りる (emprunter)           |
+
+---
+
+✅ Astuce : pense à  
+- **あげる / 教える / 貸す** = "je donne (ou fais aller vers l’autre)"  
+- **くれる / もらう / 習う / 借りる** = "je reçois (ou ça vient vers moi)"  
