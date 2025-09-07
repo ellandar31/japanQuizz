@@ -2,10 +2,10 @@
 
 | Sujet                | Leçons Minna associées |
 |-----------------------|-------------------------|
-| **Groupes de verbes & conjugaison** | L14~16 (formes de base), L17 (forme -て), L18~19 (forme ない & dictionnaire) |
+| **Groupes de verbes & conjugaison** | L14 à 16 (formes de base), L17 (forme -て), L18 à 19 (forme ない & dictionnaire) |
 | **Forme en -て**      | L14 (-てください), L16 (-てもいい / -てはいけない), L17 (enchaîner actions, explications) |
-| **Adjectifs**         | L8 (い/な-adj), L12 (comparaison avec adj.), L14~16 (forme -て pour lier) |
-| **Particules**        | L1~10 (は, が, を, に, へ, で, と, から, まで introduites progressivement) |
+| **Adjectifs**         | L8 (い/な-adj), L12 (comparaison avec adj.), L14 à 16 (forme -て pour lier) |
+| **Particules**        | L1 à 10 (は, が, を, に, へ, で, と, から, まで introduites progressivement) |
 | **Comparaison**       | L12 (より, のほうが, どちら) |
 | **Invitation**        | L6 (～ませんか), L14 (～ましょう) |
 | **Impératif**         | L14 (～てください, forme polie), L33 (Livre II, impératif pur 書け etc.) |
